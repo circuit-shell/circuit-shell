@@ -27,8 +27,8 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SPECTR3R&show_icons=true&hide=['issues']&theme=tokyonight&hide_border=true" alt="Adrio's GitHub stats" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SPECTR3R&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub Streak" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=circuit-shell&show_icons=true&hide=['issues']&theme=tokyonight&hide_border=true" alt="Adrio's GitHub stats" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=circuit-shell&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub Streak" width="49%">
 </div>
 
 
@@ -110,7 +110,7 @@ func (co *CareerObjectives) ContinuousImprovement() {
 
 <footer>
 <p align="center">Thanks for visiting my GitHub profile! Feel free to connect or explore my projects.👻👻👻</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SPECTR3R&label=Profile%20views&color=00FFFF&style=flat" alt="SPECTR3R" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=circuit-shell&label=Profile%20views&color=00FFFF&style=flat" alt="circuit-shell" /></p>
 
 </footer>
 
