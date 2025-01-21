@@ -28,7 +28,6 @@ me.say_hi()
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=circuit-shell&show_icons=true&hide=['issues']&theme=tokyonight&hide_border=true" alt="Adrio's GitHub stats" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=circuit-shell&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub Streak" width="49%">
 </div>
 
 
