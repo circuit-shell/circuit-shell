@@ -98,13 +98,6 @@ func (co *CareerObjectives) ContinuousImprovement() {
 
 ```
 
-## 📎 Other Stuff
-
-🔗 Check out [my Portfolio](https://adrio.vercel.app/)
-
-🔗 Visit my LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/)
-
-
 ---
 
 <footer>
